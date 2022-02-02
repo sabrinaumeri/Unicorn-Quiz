@@ -1,4 +1,4 @@
-# Unicorn-Quiz
+# Unicorn Quiz
 A responsive mobile app of a Mobile Development course. Create a quiz that was based on the first letter of your last name.
 
 Creating and launching new activities, saving the state and prompts.
